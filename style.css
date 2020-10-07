@@ -1,0 +1,31 @@
+body{
+    margin: 5%;
+}
+.liBold{
+    font-weight: bold;
+    display: contents;
+}
+
+h1{
+    color: cornflowerblue;
+}
+
+hr{
+    border: 1px solid cornflowerblue;
+}
+
+h2{
+    color: cornflowerblue;
+    font-family: Serif;
+    font-size: larger;
+}
+.vzdelani{
+    font-weight: bold;
+    font-size: large;
+    padding-top: 1%;
+    padding-bottom: 0.5%;
+}
+
+ul{
+    list-style-type: none;
+}
